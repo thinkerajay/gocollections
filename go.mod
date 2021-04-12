@@ -1,3 +1,3 @@
-module github.com/thinkerajay/godatastructures
+module github.com/thinkerajay/gocollections
 
 go 1.16
