@@ -1,3 +1,3 @@
-module github.com/thinkerajay/gocollections
+module gocollections
 
 go 1.16
